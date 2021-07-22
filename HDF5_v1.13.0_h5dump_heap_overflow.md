@@ -1,5 +1,7 @@
 # HDF5 v1.13.0 h5dump heap-overflow
 
+![](HDF5_v1.13.0_h5dump_heap_overflow.assets/image-20210723004615273.png)
+
 ## brief description
 
 This crash is a heap buffer overflow in the function `h5tools_str_sprin`t located in `/hdf5/tools/lib/h5tools_str.c`
